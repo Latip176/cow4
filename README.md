@@ -32,4 +32,4 @@ python3 app.py
 </table>
 <p>Silahkan hubungi <a href="https://wa.me/6283172566909">Developer (Latif)</a></p>
 <h1>Footer</h1>
-<p>Semua codingan dibuat oleh Muhammad Latif Harkat menggunakan python versi 3</p>
+<p>Semua codingan dibuat oleh Muhammad Latif Harkat menggunakan python versi 3.</p>
