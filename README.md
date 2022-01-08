@@ -14,7 +14,7 @@ cd cow4
 python3 app.py
 </pre></code>
 <h1>Buy Licensi</h1>
-<h2>Information</h2>
+<h2>Harga and information</h2>
 <p>Untuk menjalankan tools ini kalian harus mempunya licensi terlebih dahulu</p>
 <table>
 <tr>
@@ -30,3 +30,4 @@ python3 app.py
 <td>Permanent (10 Tahun)</td>
 </tr>
 </table>
+<p>Silahkan hubungi <a href="https://wa.me/6283172566909">Developer (Latif)</a></p>
