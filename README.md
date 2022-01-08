@@ -16,7 +16,7 @@ python3 app.py
 <h1>Buy Licensi</h1>
 <h2>Information</h2>
 <p>Untuk menjalankan tools ini kalian harus mempunya licensi terlebih dahulu</p>
-<table border="1'>
+<table>
 <tr>
 <th>Harga</th>
 <th>Durasi</th>
