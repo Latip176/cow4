@@ -1,5 +1,5 @@
-<h1>Cow4</h1>
-<p>Update tools cowCrack version 1.6.0</p>
+<h1>About</h1>
+<p>Update tools cowCrack version 1.6.0. Cow4 adalah sebuah tools "hacking" akun Facebook dengan menebak password atau bisa disebut Bruteforce. Di sc cow4 sudah fixs bbrp error dan hasil akan lebih banyak karena mengubah metode login untuk brutal attack nya.</p>
 <h1>Installed and running</h1>
 <h2>Install</h2>
 <pre><code>
