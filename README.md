@@ -6,11 +6,11 @@
 pkg install python
 pkg install git
 git clone https://github.com/Latip176/cow4
-pip install -r requirements.txt
 </pre></code>
 <h2>Running</h2>
 <pre><code>
 cd cow4
+pip install -r requirements.txt
 python3 app.py
 </pre></code>
 <h1>Buy Licensi</h1>
